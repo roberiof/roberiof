@@ -1,7 +1,7 @@
 ## About Me:
 <hr>
-Frontend Developer
-Computer Science Student 
+Frontend Developer <br> 
+Computer Science Student <br> 
 Future University 
 
 ## Tech Stack: 
@@ -11,4 +11,7 @@ Future University
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
-</div><br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EijiTomonari&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EijiTomonari&theme=synthwave&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EijiTomonari&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
