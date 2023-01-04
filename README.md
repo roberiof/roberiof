@@ -1,8 +1,7 @@
 # 😁 About Me:
-<h4> Frontend Developer </h4> <br> 
-<h4> Computer Science Student </h4> <br>
+<h4> Frontend Developer </h4>
+<h4> Computer Science Student </h4>
 <h4> Future University (UFPE) </h4>
-<br>
 <a href="https://www.linkedin.com/in/techjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
