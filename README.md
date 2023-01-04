@@ -2,7 +2,7 @@
 Frontend Developer <br> 
 Computer Science Student <br> 
 Future University <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/roberiof](https://www.linkedin.com/in/rob%C3%A9rio-filho-0b931a22a/))
+<a href="https://www.linkedin.com/in/techjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a
 
 
 # 👨‍💻 Tech Stack: 
