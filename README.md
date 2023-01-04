@@ -13,8 +13,6 @@ Future University <br>
   <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
 
-
-# 📊 GitHub Stats:
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roberiof&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=roberiof&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)
 
