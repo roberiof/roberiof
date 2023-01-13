@@ -14,7 +14,6 @@
 </div>
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roberiof&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![Snake animation](https://github.com/roberiof/roberiof/blob/output/github-contribution-grid-snake.svg)
 
