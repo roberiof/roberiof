@@ -1,4 +1,4 @@
-# 😁 About Me:
+# Hi, i'm Robério
 <h6> Frontend Developer </h6>
 <h6> Computer Science Student </h6>
 <h6> Future University (UFPE) </h6>
