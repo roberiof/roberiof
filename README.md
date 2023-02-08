@@ -3,8 +3,6 @@
 <h5> - ⌛ Computer Science Student </h5>
 <h5> - 📚 Future University (UFPE) </h5>
 <a href="https://www.linkedin.com/in/techjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberiof&show_icons=true&theme=radical)
 
 #
 <div style="display: inline_block"><br>
