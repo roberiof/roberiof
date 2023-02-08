@@ -1,7 +1,7 @@
 # Hi, i'm Robério 🖥
-<h5> Interested in front-end development </h5>
-<h5> Computer Science Student </h5>
-<h5> Future University (UFPE) </h5>
+<h5> - 🎨 Interested in front-end development </h5>
+<h5> - ⌛ Computer Science Student </h5>
+<h5> - 📚 Future University (UFPE) </h5>
 <a href="https://www.linkedin.com/in/techjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
