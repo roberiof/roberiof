@@ -1,7 +1,7 @@
 # Hi, i'm Robério 🖥
-<h5> - 🎨 Interested in front-end development </h5>
-<h5> - ⌛ Computer Science Student </h5>
-<h5> - 📚 Future University (UFPE) </h5>
+<h4> - 🎨 Interested in front-end development </h4>
+<h4> - ⌛ Computer Science Student </h4>
+<h4> - 📚 Future University (UFPE) </h4>
 
 #
 <div style="display: inline_block"><br>
