@@ -1,14 +1,14 @@
 # 🖥 Hi, i'm Robério 
-<h5> Interested in full-stack and mobile development 🎨</h5>
-<h5> Computer Science Student ⌛</h5>
-<h5> Future University (UFPE) 📚 </h5>
+<h4> Interested in full-stack and mobile development 🎨</h4>
+<h4> Computer Science Student ⌛</h4>
+<h4> Future University (UFPE) 📚 </h4>
 
 <br>
 
 ## 🎯 Next goals: 
-* <h5> Being more active at GitHub and LinkedIn </h5>
-* <h5> Improve my back-end stack</h5> 
-* <h5> Start at mobile development </h5>
+* <h4> Being more active at GitHub and LinkedIn </h4>
+* <h4> Improve my back-end stack</h4> 
+* <h4> Start at mobile development </h4>
 
 <br> 
 
