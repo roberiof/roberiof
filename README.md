@@ -1,9 +1,13 @@
-# Hi, i'm Robério 🖥
-<h4> - 🎨 Interested in full-stack and mobile development </h4>
-<h4> - ⌛ Computer Science Student </h4>
-<h4> - 📚 Future University (UFPE) </h4>
+# 🖥 Hi, i'm Robério 
+<h5> - 🎨 Interested in full-stack and mobile development </h5>
+<h5> - ⌛ Computer Science Student </h5>
+<h5> - 📚 Future University (UFPE) </h5>
 
-#
+<br>
+
+## 🎯 Next goals: 
+
+## 🚀 Techs 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -13,7 +17,9 @@
   <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
 
-#
+<br>
+
+## 📞 Contact Me 
 <div> 
   <a href="www.linkedin.com/in/roberiof" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/440185215105892353/440185215558746112" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a> 
