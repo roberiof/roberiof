@@ -1,7 +1,6 @@
 # 🖥 Hi, i'm Robério 
 <h4> Interested in full-stack and mobile development 🎨</h4>
-<h4> Computer Science Student ⌛</h4>
-<h4> Future University (UFPE) 📚 </h4>
+<h4> Computer Science Student (UFPE - Sistemas de Informação) 📚</h4>
 
 <br>
 
