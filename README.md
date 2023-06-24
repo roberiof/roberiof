@@ -29,10 +29,12 @@
 <br>
 
 ## 📞 Contact Me 
+email: arbof@cin.ufpe.br;
+linkedin: https://www.linkedin.com/in/roberiof/
 <div> 
   <a href="www.linkedin.com/in/roberiof" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/440185215105892353/440185215558746112" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a> 
-  <a href = "mailto:antonioroberiofilho8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:arbof@cin.ufpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/roberiof/roberiof/blob/output/github-contribution-grid-snake.svg)
