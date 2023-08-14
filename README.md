@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, I'm Robério 🐉</h1>
 
-<h4> Interested in full-stack web and mobile development 🎨</h4>
+<h4> Interested in full-stack web development 🎨</h4>
 <h4> Information Systems - CIn UFPE 📚</h4>
 
 <br>
@@ -8,7 +8,6 @@
 ## 🎯 Next goals: 
 * <h4> Being more active at GitHub and LinkedIn </h4>
 * <h4> Improve my back-end stack</h4> 
-* <h4> Start at mobile development </h4>
 
 <br> 
 
