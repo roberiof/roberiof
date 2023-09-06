@@ -1,9 +1,7 @@
 <h1 align="center"> Hey, I'm Robério 🐉</h1>
 
-<h4> Interested in full-stack web development 🎨</h4>
-<h4> Information Systems - CIn UFPE 📚</h4>
 
-<br>
+<br>![Capa do LinkedIn 1584x396  px  (1)](https://github.com/roberiof/roberiof/assets/107323497/e2d1fcb4-d361-483f-96cc-d7a3ecbc1b16)
 
 ## 🎯 Next goals: 
 * <h4> Being more active at GitHub and LinkedIn </h4>
