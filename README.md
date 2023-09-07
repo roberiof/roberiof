@@ -1,8 +1,18 @@
 <br>![Capa do LinkedIn 1584x396  px  (1)](https://github.com/roberiof/roberiof/assets/107323497/e2d1fcb4-d361-483f-96cc-d7a3ecbc1b16)
 
-## 🎯 Next goals: 
-* <h4> Being more active at GitHub and LinkedIn </h4>
-* <h4> Improve my back-end stack</h4> 
+<div align="center">
+  
+  <h4><em>Pashionate about music and routine, my main objectives <br> are improve my social network and back-end stack!</em></h4>
+    
+</div>
+
+<br>
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/roberiof/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@roberiof" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href = "mailto:arbof@cin.ufpe.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <br> 
 
@@ -68,14 +78,37 @@
 > ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </details>
 
-
 <br>
 
-## 📞 Contact Me
-<div> 
-  <a href="https://www.linkedin.com/in/roberiof/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:arbof@cin.ufpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<p align=center>
+  <div align="center">
+    <a href="https://github.com/roberiof/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width=490 src="https://github-readme-streak-stats.herokuapp.com/?user=roberiof&theme=react&border=61dafb&hide_border=true" alt="roberiof" />
+    </a>
+    <a href="https://github.com/roberiof/github-readme-stats">
+      <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberiof&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  
+  <br>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roberiof&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+
+<hr>
+
+<div align="center" width="50">
+  
+  **Code Cycle**<br>
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
 </div>
 
-![Snake animation](https://github.com/roberiof/roberiof/blob/output/github-contribution-grid-snake.svg)
 
