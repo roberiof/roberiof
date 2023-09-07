@@ -1,6 +1,3 @@
-<h1 align="center"> Hey, I'm Robério 🐉</h1>
-
-
 <br>![Capa do LinkedIn 1584x396  px  (1)](https://github.com/roberiof/roberiof/assets/107323497/e2d1fcb4-d361-483f-96cc-d7a3ecbc1b16)
 
 ## 🎯 Next goals: 
