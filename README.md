@@ -82,9 +82,9 @@
 
 <p align=center>
   <div align="center">
-    <a href="https://github.com/roberiof/github-readme-streak-stats" title="Go to Source">
+<!--     <a href="https://github.com/roberiof/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=490 src="https://github-readme-streak-stats.herokuapp.com/?user=roberiof&theme=react&border=61dafb&hide_border=true" alt="roberiof" />
-    </a>
+    </a> -->
     <a href="https://github.com/roberiof/github-readme-stats">
       <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberiof&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
