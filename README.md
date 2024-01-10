@@ -2,8 +2,8 @@
 
 <div align="center"> 
   
-  ![giphy](https://github.com/roberiof/roberiof/assets/107323497/029971d5-eb62-4f60-b117-75fe0054fad8) 
-  
+  ![giphy](https://github.com/roberiof/roberiof/assets/107323497/6089ccfd-73ee-46da-a662-5e43f94a8e18)
+
 </div>
 
 <br>
