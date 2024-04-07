@@ -6,6 +6,12 @@
 
 <br>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/roberiof/" target="_blank" > see my portifolio 😃 </a> 
+</div>
+
+<br>
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/roberiof/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@roberiof" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
