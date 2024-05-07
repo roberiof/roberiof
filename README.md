@@ -7,7 +7,7 @@
 <br>
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/roberiof/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#8A0D8B" target="_blank"></a> 
+  <a href="https://roberiof.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#8A0D8B" target="_blank"></a> 
   <a href="https://medium.com/@roberiof" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <br/>
   <a href = "mailto:roberiofilhodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
